@@ -20,13 +20,13 @@ To analyze the company's HR data to:
 - Power Bi
 
   ## **Charts**
-- Gender distribution across regions and departments
-- Gender count by rating
-- Gender count by Salary
-- Ratings by gender
-- Count of employee by department and region
-- Gender count by region
-- Gender count by department
+- Over all gender distribution
+- Average rating by gender
+- Total pay by region
+- Rating distribution by gender
+- Average salary by department and region
+- Gender distribution by region
+- Salary pay gap
 
 ## **Note**
 The data used is anonymized and for project purposes only.
